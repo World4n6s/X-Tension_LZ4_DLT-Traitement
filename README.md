@@ -1,2 +1,5 @@
 # X-Tension_LZ4_DLT-Traitement
-X-tension xways pour le traitement des fichier compressés en LZ4 et la mise au clair des fichiers DLT
+X-tension xways pour:
+1- Décompresser les fichier LZ4.
+2- Convertir les fichiers DLT en txt.
+3- Décompresser les fichiers LZ4 et convertir les fichiers DLT issus de la décompression. 
